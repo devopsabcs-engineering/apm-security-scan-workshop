@@ -4,7 +4,7 @@ title: "Lab 04: Semantic Pattern Scanner"
 description: "Run the semantic pattern scanner to detect Base64 payloads, exfiltration URLs, shell injection, and prompt overrides."
 ---
 
-> 🇫🇷 **[Version française](/fr/labs/lab-04-semantic-patterns)**
+> 🇫🇷 **[Version française]({{ '/fr/labs/lab-04-semantic-patterns/' | relative_url }})**
 
 # Lab 04: Semantic Pattern Scanner
 

@@ -3,7 +3,7 @@ layout: default
 title: "Labo 01 : Explorer les violations"
 nav_exclude: true
 lang: fr
-permalink: /fr/labs/lab-01-explore-violations
+permalink: /fr/labs/lab-01-explore-violations/
 ---
 
 > 🇬🇧 **[English version]({{ '/labs/lab-01-explore-violations/' | relative_url }})**

@@ -3,7 +3,7 @@ layout: default
 title: "Labo 02 : Analyse Unicode"
 nav_exclude: true
 lang: fr
-permalink: /fr/labs/lab-02-unicode-scanning
+permalink: /fr/labs/lab-02-unicode-scanning/
 ---
 
 > 🇬🇧 **[English version]({{ '/labs/lab-02-unicode-scanning/' | relative_url }})**

@@ -3,7 +3,7 @@ layout: default
 title: "Labo 00 : Prérequis"
 nav_exclude: true
 lang: fr
-permalink: /fr/labs/lab-00-prerequisites
+permalink: /fr/labs/lab-00-prerequisites/
 ---
 
 > 🇬🇧 **[English version]({{ '/labs/lab-00-prerequisites/' | relative_url }})**

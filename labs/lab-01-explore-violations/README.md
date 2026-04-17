@@ -4,7 +4,7 @@ title: "Lab 01: Explore Demo Apps & Violations"
 description: "Explore the 5 demo applications and understand the intentional agent configuration security violations embedded in each."
 ---
 
-> 🇫🇷 **[Version française](/fr/labs/lab-01-explore-violations)**
+> 🇫🇷 **[Version française]({{ '/fr/labs/lab-01-explore-violations/' | relative_url }})**
 
 # Lab 01: Explore Demo Apps & Violations
 

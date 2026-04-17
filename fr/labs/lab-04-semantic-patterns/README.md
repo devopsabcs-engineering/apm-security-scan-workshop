@@ -3,7 +3,7 @@ layout: default
 title: "Labo 04 : Motifs sémantiques"
 nav_exclude: true
 lang: fr
-permalink: /fr/labs/lab-04-semantic-patterns
+permalink: /fr/labs/lab-04-semantic-patterns/
 ---
 
 > 🇬🇧 **[English version]({{ '/labs/lab-04-semantic-patterns/' | relative_url }})**

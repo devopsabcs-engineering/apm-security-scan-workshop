@@ -3,7 +3,7 @@ layout: default
 title: "Labo 08 : Tableau de bord"
 nav_exclude: true
 lang: fr
-permalink: /fr/labs/lab-08-dashboard
+permalink: /fr/labs/lab-08-dashboard/
 ---
 
 > 🇬🇧 **[English version]({{ '/labs/lab-08-dashboard/' | relative_url }})**

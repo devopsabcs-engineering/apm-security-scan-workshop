@@ -3,7 +3,7 @@ layout: default
 title: "Labo 03 : Intégrité lockfile"
 nav_exclude: true
 lang: fr
-permalink: /fr/labs/lab-03-lockfile-integrity
+permalink: /fr/labs/lab-03-lockfile-integrity/
 ---
 
 > 🇬🇧 **[English version]({{ '/labs/lab-03-lockfile-integrity/' | relative_url }})**

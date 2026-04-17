@@ -4,7 +4,7 @@ title: "Lab 05: MCP Configuration Validation"
 description: "Validate MCP server configurations against allowlists, transport security, and permission scope requirements."
 ---
 
-> 🇫🇷 **[Version française](/fr/labs/lab-05-mcp-validation)**
+> 🇫🇷 **[Version française]({{ '/fr/labs/lab-05-mcp-validation/' | relative_url }})**
 
 # Lab 05: MCP Configuration Validation
 

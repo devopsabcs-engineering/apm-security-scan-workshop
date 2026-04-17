@@ -3,7 +3,7 @@ layout: default
 title: "Labo 06 : Sécurité GitHub"
 nav_exclude: true
 lang: fr
-permalink: /fr/labs/lab-06-github-security-tab
+permalink: /fr/labs/lab-06-github-security-tab/
 ---
 
 > 🇬🇧 **[English version]({{ '/labs/lab-06-github-security-tab/' | relative_url }})**

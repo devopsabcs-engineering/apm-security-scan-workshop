@@ -4,7 +4,7 @@ title: "Lab 02: Unicode Content Security Scanning"
 description: "Use apm audit to detect hidden Unicode characters including Glassworm attacks, bidi overrides, and zero-width characters."
 ---
 
-> 🇫🇷 **[Version française](/fr/labs/lab-02-unicode-scanning)**
+> 🇫🇷 **[Version française]({{ '/fr/labs/lab-02-unicode-scanning/' | relative_url }})**
 
 # Lab 02: Unicode Content Security Scanning
 

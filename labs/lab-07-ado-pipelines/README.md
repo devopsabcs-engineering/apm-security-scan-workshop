@@ -4,7 +4,7 @@ title: "Lab 07 ADO: YAML Pipelines — Multi-Engine Pipeline"
 description: "Build a multi-engine APM Security scan pipeline in Azure DevOps YAML Pipelines."
 ---
 
-> 🇫🇷 **[Version française](/fr/labs/lab-07-ado-pipelines)**
+> 🇫🇷 **[Version française]({{ '/fr/labs/lab-07-ado-pipelines/' | relative_url }})**
 
 # Lab 07 ADO: YAML Pipelines — Multi-Engine Pipeline
 

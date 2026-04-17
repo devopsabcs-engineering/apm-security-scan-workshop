@@ -4,7 +4,7 @@ title: "Lab 08: Power BI Dashboard"
 description: "Connect to ADLS Gen2 data source and explore the APM Security Power BI report."
 ---
 
-> 🇫🇷 **[Version française](/fr/labs/lab-08-dashboard)**
+> 🇫🇷 **[Version française]({{ '/fr/labs/lab-08-dashboard/' | relative_url }})**
 
 # Lab 08: Power BI Dashboard
 

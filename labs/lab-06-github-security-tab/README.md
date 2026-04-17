@@ -4,7 +4,7 @@ title: "Lab 06: GitHub Security Tab — SARIF Upload"
 description: "Upload SARIF findings to GitHub Code Scanning and triage results in the Security tab."
 ---
 
-> 🇫🇷 **[Version française](/fr/labs/lab-06-github-security-tab)**
+> 🇫🇷 **[Version française]({{ '/fr/labs/lab-06-github-security-tab/' | relative_url }})**
 
 # Lab 06: GitHub Security Tab — SARIF Upload
 

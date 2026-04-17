@@ -4,7 +4,7 @@ title: "Lab 00: Prerequisites & Environment Setup"
 description: "Install required tools and configure your development environment for APM Security scanning."
 ---
 
-> 🇫🇷 **[Version française](/fr/labs/lab-00-prerequisites)**
+> 🇫🇷 **[Version française]({{ '/fr/labs/lab-00-prerequisites/' | relative_url }})**
 
 # Lab 00: Prerequisites & Environment Setup
 

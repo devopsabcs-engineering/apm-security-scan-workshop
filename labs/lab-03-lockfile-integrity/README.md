@@ -4,7 +4,7 @@ title: "Lab 03: Lockfile Integrity & Policy Checks"
 description: "Use apm audit --ci to verify lockfile integrity, version pinning, and organizational policy compliance."
 ---
 
-> 🇫🇷 **[Version française](/fr/labs/lab-03-lockfile-integrity)**
+> 🇫🇷 **[Version française]({{ '/fr/labs/lab-03-lockfile-integrity/' | relative_url }})**
 
 # Lab 03: Lockfile Integrity & Policy Checks
 

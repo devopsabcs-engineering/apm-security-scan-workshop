@@ -4,7 +4,7 @@ title: "Lab 06 ADO: Advanced Security — SARIF Upload"
 description: "Upload SARIF findings to Azure DevOps Advanced Security and triage results."
 ---
 
-> 🇫🇷 **[Version française](/fr/labs/lab-06-ado-advanced-security)**
+> 🇫🇷 **[Version française]({{ '/fr/labs/lab-06-ado-advanced-security/' | relative_url }})**
 
 # Lab 06 ADO: Advanced Security — SARIF Upload
 

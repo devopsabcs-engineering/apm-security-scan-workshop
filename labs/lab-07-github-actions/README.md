@@ -4,7 +4,7 @@ title: "Lab 07: GitHub Actions — Multi-Engine Pipeline"
 description: "Build a multi-engine APM Security scan pipeline in GitHub Actions with PR gating."
 ---
 
-> 🇫🇷 **[Version française](/fr/labs/lab-07-github-actions)**
+> 🇫🇷 **[Version française]({{ '/fr/labs/lab-07-github-actions/' | relative_url }})**
 
 # Lab 07: GitHub Actions — Multi-Engine Pipeline
 

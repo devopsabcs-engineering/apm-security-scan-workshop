@@ -3,7 +3,7 @@ layout: default
 title: "Labo 07 : GitHub Actions"
 nav_exclude: true
 lang: fr
-permalink: /fr/labs/lab-07-github-actions
+permalink: /fr/labs/lab-07-github-actions/
 ---
 
 > 🇬🇧 **[English version]({{ '/labs/lab-07-github-actions/' | relative_url }})**

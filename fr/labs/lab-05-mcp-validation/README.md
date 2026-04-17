@@ -3,7 +3,7 @@ layout: default
 title: "Labo 05 : Validation MCP"
 nav_exclude: true
 lang: fr
-permalink: /fr/labs/lab-05-mcp-validation
+permalink: /fr/labs/lab-05-mcp-validation/
 ---
 
 > 🇬🇧 **[English version]({{ '/labs/lab-05-mcp-validation/' | relative_url }})**

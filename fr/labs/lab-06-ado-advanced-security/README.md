@@ -3,7 +3,7 @@ layout: default
 title: "Labo 06 ADO : Sécurité avancée"
 nav_exclude: true
 lang: fr
-permalink: /fr/labs/lab-06-ado-advanced-security
+permalink: /fr/labs/lab-06-ado-advanced-security/
 ---
 
 > 🇬🇧 **[English version]({{ '/labs/lab-06-ado-advanced-security/' | relative_url }})**
