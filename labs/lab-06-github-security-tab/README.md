@@ -22,7 +22,7 @@ description: "Upload SARIF findings to GitHub Code Scanning and triage results i
 
 Navigate to the `apm-security-scan-demo-app` repository on GitHub and run the `apm-security-scan.yml` workflow.
 
-![Run workflow](../images/lab-06/lab-06-run-workflow.png)
+![Run workflow](../../images/lab-06/lab-06-run-workflow.png)
 
 ## Exercise 2: View Findings in Security Tab
 
@@ -32,7 +32,7 @@ After the workflow completes, visit each demo app's Security > Code scanning tab
 https://github.com/devopsabcs-engineering/apm-demo-app-001/security/code-scanning
 ```
 
-![Security tab findings](../images/lab-06/lab-06-security-tab.png)
+![Security tab findings](../../images/lab-06/lab-06-security-tab.png)
 
 ## Exercise 3: Triage Findings
 

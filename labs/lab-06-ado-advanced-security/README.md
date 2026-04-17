@@ -22,13 +22,13 @@ description: "Upload SARIF findings to Azure DevOps Advanced Security and triage
 
 Navigate to the ADO project and run the `apm-security-scan` pipeline.
 
-![ADO pipeline run](../images/lab-06-ado/lab-06-ado-pipeline-run.png)
+![ADO pipeline run](../../images/lab-06-ado/lab-06-ado-pipeline-run.png)
 
 ## Exercise 2: View Advanced Security Findings
 
 Navigate to **Repos > Advanced Security** in your ADO project.
 
-![ADO Advanced Security](../images/lab-06-ado/lab-06-ado-advsec.png)
+![ADO Advanced Security](../../images/lab-06-ado/lab-06-ado-advsec.png)
 
 ## Exercise 3: Compare with GitHub
 

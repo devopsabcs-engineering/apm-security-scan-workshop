@@ -28,7 +28,7 @@ cd apm-demo-app-001
 apm audit
 ```
 
-![APM audit output](../images/lab-02/lab-02-apm-audit-output.png)
+![APM audit output](../../images/lab-02/lab-02-apm-audit-output.png)
 
 ## Exercise 2: Generate SARIF Output
 
@@ -42,7 +42,7 @@ Inspect the SARIF file:
 Get-Content apm-unicode-results.sarif | python -m json.tool | Select-Object -First 50
 ```
 
-![SARIF output](../images/lab-02/lab-02-sarif-output.png)
+![SARIF output](../../images/lab-02/lab-02-sarif-output.png)
 
 ## Exercise 3: Understand Severity Tiers
 

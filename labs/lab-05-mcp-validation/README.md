@@ -26,7 +26,7 @@ description: "Validate MCP server configurations against allowlists, transport s
 Get-Content src\config\mcp-allowlist.json | python -m json.tool
 ```
 
-![MCP allowlist](../images/lab-05/lab-05-mcp-allowlist.png)
+![MCP allowlist](../../images/lab-05/lab-05-mcp-allowlist.png)
 
 ## Exercise 2: Scan App 003 (MCP Violations)
 
@@ -34,7 +34,7 @@ Get-Content src\config\mcp-allowlist.json | python -m json.tool
 python src\converters\mcp-to-sarif.py --scan-dir apm-demo-app-003 --output app003-mcp.sarif
 ```
 
-![MCP validation results](../images/lab-05/lab-05-mcp-results.png)
+![MCP validation results](../../images/lab-05/lab-05-mcp-results.png)
 
 ## Exercise 3: Review Findings
 

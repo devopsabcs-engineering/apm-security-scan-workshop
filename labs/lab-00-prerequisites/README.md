@@ -39,7 +39,7 @@ python --version
 az version
 ```
 
-![Tool versions](../images/lab-00/lab-00-tools-installed.png)
+![Tool versions](../../images/lab-00/lab-00-tools-installed.png)
 
 ## Exercise 2: Clone the Demo App Repository
 
@@ -49,7 +49,7 @@ git clone https://github.com/devopsabcs-engineering/apm-security-scan-demo-app.g
 cd apm-security-scan-demo-app
 ```
 
-![Repository cloned](../images/lab-00/lab-00-clone-repo.png)
+![Repository cloned](../../images/lab-00/lab-00-clone-repo.png)
 
 ## Exercise 3: Verify Project Structure
 

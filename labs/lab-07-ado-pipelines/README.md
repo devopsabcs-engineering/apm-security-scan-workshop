@@ -24,7 +24,7 @@ description: "Build a multi-engine APM Security scan pipeline in Azure DevOps YA
 Get-Content .azuredevops\pipelines\apm-security-scan.yml
 ```
 
-![ADO scan pipeline](../images/lab-07-ado/lab-07-ado-scan-pipeline.png)
+![ADO scan pipeline](../../images/lab-07-ado/lab-07-ado-scan-pipeline.png)
 
 ## Exercise 2: Create the Pipeline in ADO
 

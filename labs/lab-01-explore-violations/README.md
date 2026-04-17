@@ -40,7 +40,7 @@ Get-Content apm-demo-app-001\src\agents\helper.agent.md
 
 Look for comments marking `VIOLATION` — these indicate where hidden Unicode characters are embedded.
 
-![App 001 violations](../images/lab-01/lab-01-app-001-violations.png)
+![App 001 violations](../../images/lab-01/lab-01-app-001-violations.png)
 
 ## Exercise 3: Inspect Semantic Violations (App 002)
 

@@ -26,7 +26,7 @@ description: "Run the semantic pattern scanner to detect Base64 payloads, exfilt
 python src\converters\semantic-to-sarif.py --scan-dir apm-demo-app-002 --output app002-semantic.sarif
 ```
 
-![Semantic scan results](../images/lab-04/lab-04-semantic-results.png)
+![Semantic scan results](../../images/lab-04/lab-04-semantic-results.png)
 
 ## Exercise 2: Review the Findings
 

@@ -29,7 +29,7 @@ apm audit --ci
 
 This should fail because app 005 has no `apm.lock.yaml` committed.
 
-![Lockfile missing](../images/lab-03/lab-03-lockfile-missing.png)
+![Lockfile missing](../../images/lab-03/lab-03-lockfile-missing.png)
 
 ## Exercise 2: Generate a Lockfile
 
@@ -49,7 +49,7 @@ apm audit --ci
 Get-Content ..\src\config\apm-policy.yml
 ```
 
-![Policy config](../images/lab-03/lab-03-policy-config.png)
+![Policy config](../../images/lab-03/lab-03-policy-config.png)
 
 ## Exercise 4: SARIF Output
 

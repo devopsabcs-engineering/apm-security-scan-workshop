@@ -26,7 +26,7 @@ description: "Build a multi-engine APM Security scan pipeline in GitHub Actions 
 Get-Content .github\workflows\apm-security-scan.yml
 ```
 
-![Scan workflow](../images/lab-07/lab-07-scan-workflow.png)
+![Scan workflow](../../images/lab-07/lab-07-scan-workflow.png)
 
 ## Exercise 2: Review the Gate Workflow
 
