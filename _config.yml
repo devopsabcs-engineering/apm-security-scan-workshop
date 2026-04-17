@@ -1,0 +1,23 @@
+title: "APM Security Scan Workshop"
+description: "Hands-on workshop: Agent configuration file security scanning with APM audit, semantic patterns, and MCP validation"
+remote_theme: just-the-docs/just-the-docs
+baseurl: "/apm-security-scan-workshop"
+url: "https://devopsabcs-engineering.github.io"
+
+exclude:
+  - scripts/
+  - delivery/
+  - .devcontainer/
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - Gemfile.lock
+
+defaults:
+  - scope:
+      path: "images"
+    values:
+      nav_exclude: true
+
+nav_order_base: 0
+heading_anchors: true

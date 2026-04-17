@@ -1,0 +1,74 @@
+[
+  {
+    "lab": "lab-00",
+    "screenshots": [
+      { "filename": "lab-00-tools-installed.png", "type": "terminal", "description": "Terminal showing node, apm, python, az versions" },
+      { "filename": "lab-00-clone-repo.png", "type": "terminal", "description": "Terminal showing git clone output" }
+    ]
+  },
+  {
+    "lab": "lab-01",
+    "screenshots": [
+      { "filename": "lab-01-app-001-violations.png", "type": "terminal", "description": "Agent config file showing VIOLATION comments" }
+    ]
+  },
+  {
+    "lab": "lab-02",
+    "screenshots": [
+      { "filename": "lab-02-apm-audit-output.png", "type": "terminal", "description": "APM audit output with Unicode findings" },
+      { "filename": "lab-02-sarif-output.png", "type": "terminal", "description": "SARIF JSON content" }
+    ]
+  },
+  {
+    "lab": "lab-03",
+    "screenshots": [
+      { "filename": "lab-03-lockfile-missing.png", "type": "terminal", "description": "apm audit --ci error output" },
+      { "filename": "lab-03-policy-config.png", "type": "terminal", "description": "Policy YAML content" }
+    ]
+  },
+  {
+    "lab": "lab-04",
+    "screenshots": [
+      { "filename": "lab-04-semantic-results.png", "type": "terminal", "description": "Semantic scan results" }
+    ]
+  },
+  {
+    "lab": "lab-05",
+    "screenshots": [
+      { "filename": "lab-05-mcp-allowlist.png", "type": "terminal", "description": "MCP allowlist JSON" },
+      { "filename": "lab-05-mcp-results.png", "type": "terminal", "description": "MCP validation results" }
+    ]
+  },
+  {
+    "lab": "lab-06",
+    "screenshots": [
+      { "filename": "lab-06-run-workflow.png", "type": "browser", "url": "https://github.com/devopsabcs-engineering/apm-security-scan-demo-app/actions", "description": "Workflow dispatch page" },
+      { "filename": "lab-06-security-tab.png", "type": "browser", "url": "https://github.com/devopsabcs-engineering/apm-demo-app-001/security/code-scanning", "description": "Security tab with findings" }
+    ]
+  },
+  {
+    "lab": "lab-06-ado",
+    "screenshots": [
+      { "filename": "lab-06-ado-pipeline-run.png", "type": "browser", "description": "ADO pipeline run" },
+      { "filename": "lab-06-ado-advsec.png", "type": "browser", "description": "ADO Advanced Security findings" }
+    ]
+  },
+  {
+    "lab": "lab-07",
+    "screenshots": [
+      { "filename": "lab-07-scan-workflow.png", "type": "terminal", "description": "Scan workflow YAML" }
+    ]
+  },
+  {
+    "lab": "lab-07-ado",
+    "screenshots": [
+      { "filename": "lab-07-ado-scan-pipeline.png", "type": "terminal", "description": "ADO scan pipeline YAML" }
+    ]
+  },
+  {
+    "lab": "lab-08",
+    "screenshots": [
+      { "filename": "lab-08-dashboard-overview.png", "type": "browser", "description": "Power BI security overview page" }
+    ]
+  }
+]
