@@ -31,3 +31,14 @@ Bienvenue dans l'**Atelier d'analyse de sécurité APM** — un atelier pratique
 | [Labo 07](labs/lab-07-github-actions) | GitHub Actions — Pipeline multi-moteur | 45 min | GitHub |
 | [Labo 07 ADO](labs/lab-07-ado-pipelines) | Pipelines ADO — Pipeline multi-moteur | 50 min | ADO |
 | [Labo 08](labs/lab-08-dashboard) | Tableau de bord Power BI | 40 min | Agnostique |
+
+## Dépôts associés
+
+| Dépôt | Description |
+|-------|-------------|
+| [Agentic Accelerator Framework](https://github.com/devopsabcs-engineering/agentic-accelerator-framework) | Définitions d'agents, instructions, compétences et workflows CI/CD |
+| [apm-security-scan-demo-app](https://github.com/devopsabcs-engineering/apm-security-scan-demo-app) | Plateforme d'analyse et applications de démonstration |
+| [Agentic Accelerator Workshop](https://devopsabcs-engineering.github.io/agentic-accelerator-workshop/) | Atelier principal (tous les domaines) |
+| [Accessibility Scan Workshop](https://devopsabcs-engineering.github.io/accessibility-scan-workshop/) | Atelier d'analyse d'accessibilité WCAG 2.2 |
+| [Code Quality Scan Workshop](https://devopsabcs-engineering.github.io/code-quality-scan-workshop/) | Atelier d'analyse de la qualité du code |
+| [FinOps Scan Workshop](https://devopsabcs-engineering.github.io/finops-scan-workshop/) | Atelier d'analyse de la gouvernance des coûts Azure |
