@@ -25,6 +25,10 @@ permalink: /fr/labs/lab-05-mcp-validation/
 python src\converters\mcp-to-sarif.py --scan-dir apm-demo-app-003 --output app003-mcp.sarif
 ```
 
+![Liste d'autorisation MCP](../../../images/lab-05/lab-05-mcp-allowlist.png)
+
+![Résultats de validation MCP](../../../images/lab-05/lab-05-mcp-results.png)
+
 ## Point de vérification
 
 - [ ] Le validateur MCP produit des résultats pour l'app 003

@@ -26,6 +26,10 @@ cd apm-demo-app-005
 apm audit --ci
 ```
 
+![Lockfile manquant](../../../images/lab-03/lab-03-lockfile-missing.png)
+
+![Configuration de politique](../../../images/lab-03/lab-03-policy-config.png)
+
 ## Point de vérification
 
 - [ ] `apm audit --ci` détecte le lockfile manquant dans l'app 005

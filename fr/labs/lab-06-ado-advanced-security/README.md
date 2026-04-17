@@ -19,6 +19,10 @@ permalink: /fr/labs/lab-06-ado-advanced-security/
 - Téléverser des fichiers SARIF avec `AdvancedSecurity-Publish@1`
 - Naviguer les résultats dans ADO Advanced Security
 
+![Exécution du pipeline ADO](../../../images/lab-06-ado/lab-06-ado-pipeline-run.png)
+
+![ADO Advanced Security](../../../images/lab-06-ado/lab-06-ado-advsec.png)
+
 ## Point de vérification
 
 - [ ] Le pipeline ADO s'exécute avec succès

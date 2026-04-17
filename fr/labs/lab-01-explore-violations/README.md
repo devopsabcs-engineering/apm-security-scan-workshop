@@ -29,6 +29,8 @@ permalink: /fr/labs/lab-01-explore-violations/
 | 004 | Spring Boot + Skills | Moteur 3 : Sémantique | 17 |
 | 005 | Go + multi-agent | Moteur 2 : Lockfile | 16 |
 
+![Violations App 001](../../../images/lab-01/lab-01-app-001-violations.png)
+
 ## Point de vérification
 
 - [ ] Vous pouvez identifier au moins 3 types de violations par application

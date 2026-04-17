@@ -25,6 +25,8 @@ permalink: /fr/labs/lab-04-semantic-patterns/
 python src\converters\semantic-to-sarif.py --scan-dir apm-demo-app-002 --output app002-semantic.sarif
 ```
 
+![Résultats de l'analyse sémantique](../../../images/lab-04/lab-04-semantic-results.png)
+
 ## Point de vérification
 
 - [ ] Le scanner sémantique produit des résultats pour les apps 002 et 004

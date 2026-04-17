@@ -30,6 +30,8 @@ python --version
 az version
 ```
 
+![Versions des outils](../../../images/lab-00/lab-00-tools-installed.png)
+
 ## Exercice 2 : Cloner le dépôt
 
 ```powershell
@@ -37,6 +39,8 @@ cd C:\src\GitHub\devopsabcs-engineering
 git clone https://github.com/devopsabcs-engineering/apm-security-scan-demo-app.git
 cd apm-security-scan-demo-app
 ```
+
+![Dépôt cloné](../../../images/lab-00/lab-00-clone-repo.png)
 
 ## Point de vérification
 

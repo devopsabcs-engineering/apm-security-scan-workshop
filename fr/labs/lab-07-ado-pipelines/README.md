@@ -18,6 +18,8 @@ permalink: /fr/labs/lab-07-ado-pipelines/
 
 - Créer des pipelines YAML ADO pour l'analyse de sécurité APM
 
+![Pipeline d'analyse ADO](../../../images/lab-07-ado/lab-07-ado-scan-pipeline.png)
+
 ## Point de vérification
 
 - [ ] Le pipeline d'analyse ADO exécute les 3 étapes

@@ -27,11 +27,15 @@ cd apm-demo-app-001
 apm audit
 ```
 
+![Sortie APM audit](../../../images/lab-02/lab-02-apm-audit-output.png)
+
 ## Exercice 2 : Générer la sortie SARIF
 
 ```powershell
 apm audit -f sarif -o apm-unicode-results.sarif
 ```
+
+![Sortie SARIF](../../../images/lab-02/lab-02-sarif-output.png)
 
 ## Point de vérification
 

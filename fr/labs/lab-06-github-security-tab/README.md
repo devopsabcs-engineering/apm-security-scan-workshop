@@ -19,6 +19,10 @@ permalink: /fr/labs/lab-06-github-security-tab/
 - Téléverser des fichiers SARIF vers GitHub Code Scanning
 - Naviguer et trier les résultats dans l'onglet Sécurité
 
+![Exécuter le flux de travail](../../../images/lab-06/lab-06-run-workflow.png)
+
+![Résultats de l'onglet Sécurité](../../../images/lab-06/lab-06-security-tab.png)
+
 ## Point de vérification
 
 - [ ] Le flux de travail se termine avec succès

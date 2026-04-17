@@ -19,6 +19,8 @@ permalink: /fr/labs/lab-07-github-actions/
 - Comprendre la structure du flux de travail à 3 jobs
 - Configurer le gate de PR avec seuils de sévérité
 
+![Flux de travail d'analyse](../../../images/lab-07/lab-07-scan-workflow.png)
+
 ## Point de vérification
 
 - [ ] Vous comprenez la structure du flux de travail
