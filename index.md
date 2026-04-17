@@ -8,7 +8,7 @@ permalink: /
 > 🇫🇷 **[Version française](fr/)**
 
 <p align="center">
-  <img src="assets/branding/logo-128.png" alt="Agentic Accelerator Framework" width="100">
+  <img src="{{ site.baseurl }}/assets/branding/logo-128.png" alt="Agentic Accelerator Framework" width="100">
 </p>
 
 # APM Security Scan Workshop
